@@ -19,3 +19,11 @@ img.avatar { box-shadow: 3px 2px 0px #000; border-radius: 10px; border: 1px soli
 .logos { text-align: right; margin: 30px 0; }
 .logos img { opacity: 0.5; }
 .logos img:hover { opacity: 1.0; }
+
+.articles { padding: 0; }
+.articles li { background-color: #333; border: 2px solid #444; padding: 5px 15px; border-radius: 10px; margin: 0; }
+.articles a { font-family: "Cabin"; font-size: 20px; text-decoration: none; font-weight: bold; }
+.articles a:hover { color: #ff9; }
+.articles a span { font-size: 13px; background-color: #f99; padding: 1px 10px; border-radius: 10px; color: #fff; font-weight: normal; margin-right: 10px; text-shadow: #000 0px 1px 1px; }
+
+.info { text-align: center; color: #aaa; margin-top: 30px; text-shadow: #ff0 0px 0px 10px; }
